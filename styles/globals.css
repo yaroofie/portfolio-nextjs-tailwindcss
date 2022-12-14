@@ -28,3 +28,8 @@ a {
     background: black;
   }
 }
+
+@font-face {
+  font-family: 'burtons';
+  src: url('../public/files/Burtons.otf');
+}
